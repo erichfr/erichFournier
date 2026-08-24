@@ -58,7 +58,13 @@ Desenvolvedor PHP/Laravel apaixonado por construir aplicações web escaláveis 
 
 **🔹 Micro University — Desenvolvedor Php Pleno**  
 📍 Rio de Janeiro, RJ | 🗓️ 03/2024 de início – Atual 
-*Desenvolvimento e sustentação de um sistema ERP voltado para academias e áreas esportivas.*
+*Sou responsável por manter o sistema principal da empresa, um produto Software as Service (multitenancy) completo voltado à gestão de academias e clubes, com funcionalidades como contratos, planos, mensalidades, inadimplência, produtos, dashboard, relatórios, entre outras.
+
+Tecnologias utilizadas: Laravel, Livewire, MySQL, AWS, Blade, Bootstrap, JQuery, Ajax, Horizon, Redis, Cache, Eloquent ORM, Jobs e Queues assíncronas, Webhooks e integrações via API REST.
+
+Utilizo Redis para cacheamento de queries e o Laravel Horizon, também com Redis, para o processamento de filas. Além disso, utilizamos o Schedule para acionar tarefas agendadas (cron), responsáveis por processar os Jobs.
+
+Utilização de Github com CI/CD para versionamento de código e trabalhando em equipe com pull requests.*
 
 **🔹 CADS — Desenvolvedor WEB Pleno**  
 📍 Maricá, RJ | 🗓️ 04/2023 de início – 02/2024  
